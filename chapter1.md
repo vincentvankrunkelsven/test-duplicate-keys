@@ -242,7 +242,7 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:6bd74ab541
+--- type:NormalExercise lang:r xp:100 skills:1 key:58422ae1de
 ## More movies Second
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
@@ -336,7 +336,7 @@ test_error()
 success_msg("Good work!")
 ```
 
---- type:NormalExercise lang:r xp:100 skills:1 key:6bd74ab541
+--- type:NormalExercise lang:r xp:100 skills:1 key:5666a73737
 ## Cool new exercise
 
 In the previous exercise, you saw a dataset about movies. In this exercise, we'll have a look at yet another dataset about movies!
